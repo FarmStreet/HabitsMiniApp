@@ -1,0 +1,13 @@
+.AddHabitButtonContainer {
+  position: absolute;
+  bottom: 5vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.DailyTaskListContainer {
+  margin-top: 10%;
+  height: 60vh;
+  overflow-y: scroll;
+}

@@ -1,0 +1,11 @@
+.HabitItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5vw;
+  height: 16.7%;
+}
+
+.HabitItem--active {
+  background: lightgray;
+}

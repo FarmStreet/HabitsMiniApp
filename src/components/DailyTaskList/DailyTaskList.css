@@ -1,0 +1,17 @@
+.DailyTaskList {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 3.8vw;
+}
+
+.DailyTaskList, .DailyTaskList th, .DailyTaskList td {
+  border: black 1px solid;
+}
+
+.DailyTaskList thead tr td:first-child {
+  width: 40%;
+}
+
+.DailyTaskList td {
+  height: 12vw;
+}

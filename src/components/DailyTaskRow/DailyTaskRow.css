@@ -1,0 +1,7 @@
+.DailyTaskRow--name {
+  text-align: right;
+}
+
+.DailyTaskRow--hidden {
+  display: none;
+}

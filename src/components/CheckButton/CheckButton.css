@@ -1,0 +1,11 @@
+.CheckButton {
+  width: 6vw;
+  height: 6vw;
+  border-radius: 50%;
+  border: 1px black solid;
+  margin-left: 25%;
+}
+
+.CheckButton--enabled {
+  background: green;
+}

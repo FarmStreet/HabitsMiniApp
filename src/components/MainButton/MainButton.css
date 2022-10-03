@@ -1,0 +1,10 @@
+.MainButton {
+  position: absolute;
+  height: 20vw;
+  width: 60vw;
+  border: 1px black solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 9vw;
+}

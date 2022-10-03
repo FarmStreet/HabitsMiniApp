@@ -1,0 +1,10 @@
+.CalendarHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 2% 5%;
+  border-bottom: 1px black solid;
+}
+
+.CalendarHeaderButton {
+  color: darkred;
+}

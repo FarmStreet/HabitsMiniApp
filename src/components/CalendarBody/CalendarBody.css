@@ -1,0 +1,20 @@
+.CalendarBody {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 2%;
+}
+
+.CalendarDays {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  text-align: center;
+}
+
+.CalendarDays div {
+  box-sizing: border-box;
+  width: 14.28vw;
+  height: 5vw;
+}

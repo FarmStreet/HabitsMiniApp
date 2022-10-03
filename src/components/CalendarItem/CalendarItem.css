@@ -1,0 +1,20 @@
+.CalendarItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 14.28vw;
+  height: 7vh;
+  border-top: 1px rgba(0, 0, 150, .3) solid;
+}
+
+.CalendarItem--active div {
+  border-radius: 100%;
+  border: 1px red solid;
+  width: 7vw;
+  height: 7vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

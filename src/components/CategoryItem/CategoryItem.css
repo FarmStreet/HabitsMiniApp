@@ -1,0 +1,14 @@
+.CategoryItem {
+  width: 35%;
+  margin-left: 10%;
+  margin-top: 10%;
+  height: 35vw;
+  border: 1px black solid;
+  text-align: center;
+  font-size: 5.0vw;
+}
+
+.CategoryEmoji {
+  margin-top: 20%;
+  font-size: 10vw;
+}

@@ -1,0 +1,17 @@
+.AddNewHabitContainer {
+  margin: 5vh 20vw 0 20vw;
+  justify-content: center;
+}
+
+.AddNewHabitInput {
+  width: 100%;
+  height: 8vw;
+  font-size: 6vw;
+}
+
+.AddNewHabitButton {
+  font-size: 4vw;
+  color: gray;
+  text-align: center;
+  margin: 1vh 12% 0 12%;
+}

@@ -1,0 +1,7 @@
+.AddHabitButton {
+  width: 15vh;
+  height: 15vh;
+  border-radius: 100%;
+  border: 3px black solid;
+  background-color: rgba(0, 0, 255, .5);
+}

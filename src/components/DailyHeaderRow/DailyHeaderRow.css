@@ -1,0 +1,7 @@
+.DailyHeaderRow td {
+  text-align: center;
+}
+
+.DailyHeaderRow td:not(:first-child) {
+  width: 15%;
+}
